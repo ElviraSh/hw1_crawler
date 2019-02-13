@@ -1,0 +1,1 @@
+ W3Schools Quiz v2.0 w3schools.com jQuery Quiz Quiz Home HTML Quiz CSS Quiz JavaScript Quiz SQL Quiz PHP Quiz Bootstrap Quiz jQuery Quiz XML Quiz Question 1 of 25 Which of the following is correct? jQuery is a JSON Library jQuery is a JavaScript Library Next ❯ 

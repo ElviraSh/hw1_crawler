@@ -1,0 +1,1 @@
+ W3Schools Quiz v2.0 w3schools.com PYTHON Quiz Quiz Home HTML Quiz CSS Quiz JavaScript Quiz SQL Quiz PHP Quiz Bootstrap Quiz jQuery Quiz XML Quiz Question 1 of 25 What is a correct syntax to output "Hello World" in Python? print("Hello World") echo "Hello World" p("Hello World") echo("Hello World"); Next ❯ 

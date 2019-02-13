@@ -1,0 +1,1 @@
+ W3Schools Quiz v2.0 w3schools.com JavaScript Quiz Quiz Home HTML Quiz CSS Quiz JavaScript Quiz SQL Quiz PHP Quiz Bootstrap Quiz jQuery Quiz XML Quiz Question 1 of 25 Inside which HTML element do we put the JavaScript? <script> <scripting> <javascript> <js> Next ❯ 
